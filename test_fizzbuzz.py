@@ -1,4 +1,4 @@
-from fizzbuzz import fizzbuzz
+from helpers import fizzbuzz
 
 def test_return_number():
     assert fizzbuzz(1) == 1
